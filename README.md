@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Kirtika Mittal
@@ -193,5 +193,5 @@ If you enjoy my projects, consider giving them a ⭐
 <p align="center">
   <img src="https://raw.githubusercontent.com/kirtika-0102/kirtika-0102/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-```
+
 
