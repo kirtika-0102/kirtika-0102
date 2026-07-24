@@ -82,9 +82,6 @@
 
 <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap"/>
 
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
 ### Database
 
@@ -92,7 +89,7 @@
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel"/>
 
 </div>
 
