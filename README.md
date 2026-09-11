@@ -145,26 +145,6 @@ I actively solve coding problems to improve my understanding of Data Structures,
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kirtika-0102&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kirtika-0102&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
 # ✨ Quote
 
 <div align="center">
